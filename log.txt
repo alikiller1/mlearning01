@@ -1,0 +1,9 @@
+2020-05-08 18:17:14,399 -loggingTest.py- D:/PycharmProjects/mlearnin01/loggingTest.py - INFO - Start print log
+2020-05-08 18:17:14,400 -loggingTest.py- D:/PycharmProjects/mlearnin01/loggingTest.py - WARNING - Something maybe fail.
+2020-05-08 18:17:14,400 -loggingTest.py- D:/PycharmProjects/mlearnin01/loggingTest.py - INFO - Finish
+2020-05-08 18:18:10,981 - D:/PycharmProjects/mlearnin01/loggingTest.py - INFO - Start print log
+2020-05-08 18:18:10,981 - D:/PycharmProjects/mlearnin01/loggingTest.py - WARNING - Something maybe fail.
+2020-05-08 18:18:10,981 - D:/PycharmProjects/mlearnin01/loggingTest.py - INFO - Finish
+2020-05-08 18:19:28,426 - D:/PycharmProjects/mlearnin01/loggingTest.py - <module> - INFO - Start print log
+2020-05-08 18:19:28,426 - D:/PycharmProjects/mlearnin01/loggingTest.py - <module> - WARNING - Something maybe fail.
+2020-05-08 18:19:28,429 - D:/PycharmProjects/mlearnin01/loggingTest.py - <module> - INFO - Finish
